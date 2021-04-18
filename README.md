@@ -29,4 +29,4 @@ This project is an end to end data science project that is able to predict the c
  # Project Created by:
   [Devansh Sharma](https://www.linkedin.com/in/aboutdevansh/)        
   [Bedanta Bhandar Kayastha](https://www.linkedin.com/in/bedanta-bhandar-kayastha-ba39251b2/)
-   [puja devkar](https://github.com/puja98devkar)
+  [puja devkar](https://github.com/puja98devkar)
